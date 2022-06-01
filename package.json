@@ -28,7 +28,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.10.1",
     "nuxt": "^2.15.4",
-    "three": "^0.127.0"
+    "three": "^0.141.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
@@ -39,7 +39,7 @@
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/stylelint-module": "^4.0.0",
     "@nuxtjs/vuetify": "^1.11.3",
-    "@types/three": "^0.127.0",
+    "@types/three": "^0.141.0",
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.3",
     "eslint": "^7.24.0",
